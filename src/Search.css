@@ -1,0 +1,16 @@
+.Search .searchBar {
+  border-radius: 5px;
+  padding: 0.5 em;
+}
+
+.Search .searchButton {
+  border-radius: 10px;
+  margin: 0.2em;
+  padding: 0.5em;
+}
+
+.Search .currentLocationButton {
+  border-radius: 10px;
+  margin: 0.2em;
+  padding: 0.5em;
+}

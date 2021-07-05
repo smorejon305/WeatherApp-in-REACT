@@ -1,0 +1,4 @@
+.City .cityName {
+  font-family: var(--ff-accent);
+  text-shadow: darkgrey 1px 1px;
+}

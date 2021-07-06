@@ -1,0 +1,21 @@
+.Forecast {
+  font-family: var(--ff-primary);
+}
+
+.Forecast .forecastWeekday {
+  font-family: var(--ff-primary);
+  text-align: center;
+}
+
+.Forecast .forecastIcon {
+  display: block;
+  margin: 0 auto;
+  max-width: 90%;
+  height: auto;
+}
+
+.Forecast .forecastTemp {
+  font-family: var(--ff-primary);
+  font-size: 0.8em;
+  text-align: center;
+}

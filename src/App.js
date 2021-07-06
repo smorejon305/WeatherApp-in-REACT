@@ -3,6 +3,7 @@ import Search from "./Search";
 import City from "./City";
 import DateTime from "./DateTime";
 import WeatherData from "./WeatherData";
+import Forecast from "./Forecast";
 
 export default function App() {
   return (
@@ -15,6 +16,9 @@ export default function App() {
       <DateTime />
 
       <WeatherData />
+      <hr />
+
+      <Forecast />
     </div>
   );
 }

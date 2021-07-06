@@ -2,6 +2,7 @@ import "./styles.css";
 import Search from "./Search";
 import City from "./City";
 import DateTime from "./DateTime";
+import WeatherData from "./WeatherData";
 
 export default function App() {
   return (
@@ -12,6 +13,8 @@ export default function App() {
 
       <City />
       <DateTime />
+
+      <WeatherData />
     </div>
   );
 }

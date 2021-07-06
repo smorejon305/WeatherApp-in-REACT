@@ -1,0 +1,8 @@
+img {
+  max-width: 25%;
+}
+
+.WeatherData .currentTemp {
+  font-family: var(--ff-accent);
+  font-size: 3.5em;
+}
